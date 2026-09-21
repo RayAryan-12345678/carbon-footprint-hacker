@@ -1,0 +1,14 @@
+[
+  "transport_mode",
+  "km_per_month",
+  "flights_per_year",
+  "electricity_kwh",
+  "energy_source",
+  "heating_type",
+  "diet_type",
+  "food_source",
+  "food_waste_level",
+  "waste_kg",
+  "recycling",
+  "shopping_spend"
+]
